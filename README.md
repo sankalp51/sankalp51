@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Sankalp Kalangutkar
+#### fullstack web developement
+![fullstack web developement](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hi there!  I'm Sankalp Kalangutkar, a full-stack developer who likes to create web applications. I enjoy learning new things about the web and new frameworks like React and Next.js
+I enjoy learning new things about the web and new frameworks and technologies like React and Next.js.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalp51)](https://github.com/anuraghazra/github-readme-stats)
+Skills:  REACT / JS / HTML / CSS / MongoDB / EXPRESS JS / NODE JS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
