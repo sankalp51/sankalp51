@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalp C. Kalangutkar</h1>
-<h3 align="center">Passionate MERN stack Developer Embarking on the Coding Journey</h3>
+<h3 align="center">Passionate full stack Developer Embarking on the Coding Journey</h3>
 
 - 🌱 I’m currently learning **TypeScript, PostgreSQL and Prisma**
 
